@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28869684/README.md)
 # 상담심리사 1급 모의 문제은행 1000제
 
 상담심리사 1급 필기시험 출제기준(5과목)에 맞추어 자체 제작한 모의문항 1,000문항 학습 도구입니다.
